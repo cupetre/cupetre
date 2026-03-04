@@ -16,7 +16,7 @@ Never serious, learning anyways
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,6 +33,7 @@ Never serious, learning anyways
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
+
 - Object-Oriented design & layered architecture
 
 - REST API development
@@ -54,9 +55,13 @@ Never serious, learning anyways
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-Schema design & normalization
-Query optimization fundamentals
-Relational data modeling
+
+-Schema design & normalization
+
+-Query optimization fundamentals
+
+-Relational data modeling
+
 ---
 
 ### 🚀 DevOps & Cloud
@@ -65,10 +70,15 @@ Relational data modeling
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Deployment](https://img.shields.io/badge/Production%20Deployments-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)
-Containerized distributed systems
-Docker networks & multi-container architecture
-Cloud deployments (AWS / Azure)
-VPS hosting & real-world website deployments
+
+-Containerized distributed systems
+
+-Docker networks & multi-container architecture
+
+-Cloud deployments (AWS / Azure)
+
+-VPS hosting & real-world website deployments
+
 ---
 
 ### 📊 Research & Data
@@ -76,9 +86,12 @@ VPS hosting & real-world website deployments
 ![Univariate Analysis](https://img.shields.io/badge/Univariate%20Models-6A5ACD?style=for-the-badge)
 ![Multivariate Analysis](https://img.shields.io/badge/Multivariate%20Models-483D8B?style=for-the-badge)
 ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-4B0082?style=for-the-badge)
-Predictive modeling & interpretation
-Model comparison & evaluation techniques
-Applied statistical reasoning for real-world datasets
+
+-Predictive modeling & interpretation
+
+-Model comparison & evaluation techniques
+
+-Applied statistical reasoning for real-world datasets
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupetre&layout=compact&theme=radical)  
 
