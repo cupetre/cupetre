@@ -33,14 +33,22 @@ Never serious, learning anyways
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
-Object-Oriented design & layered architecture
-REST API development
-WebSockets for real-time communication
-Component-based UI architecture
-State management fundamentals
-Responsive design & modern layout systems
-Spring Boot dependency management & security configuration
-.NET Web API development
+- Object-Oriented design & layered architecture
+
+- REST API development
+
+- WebSockets for real-time communication
+
+- Component-based UI architecture
+
+- State management fundamentals
+
+- Responsive design & modern layout systems
+
+- Spring Boot dependency management & security configuration
+
+- .NET Web API development
+
 ---
 
 ### 🗄 Databases
