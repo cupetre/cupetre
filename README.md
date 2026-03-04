@@ -52,7 +52,7 @@ Never serious, learning anyways
 
 ---
 
-### 🗄 Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -64,7 +64,7 @@ Never serious, learning anyways
 
 ---
 
-### 🚀 DevOps & Cloud
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -81,7 +81,7 @@ Never serious, learning anyways
 
 ---
 
-### 📊 Research & Data
+### Research & Data
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-8A2BE2?style=for-the-badge)
 ![Multivariate Analysis](https://img.shields.io/badge/Multivariate%20Models-483D8B?style=for-the-badge)
 ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-4B0082?style=for-the-badge)
