@@ -16,12 +16,6 @@ Never serious, learning anyways
 
 ## 🛠 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ---
 
 ### Frontend , Backend & Frameworks
@@ -33,6 +27,10 @@ Never serious, learning anyways
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - Object-Oriented design & layered architecture
 
