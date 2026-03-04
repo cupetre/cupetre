@@ -26,7 +26,6 @@ Never serious, learning anyways
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - Object-Oriented design & layered architecture
 
@@ -47,7 +46,7 @@ Never serious, learning anyways
 ---
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - Schema design & normalization
@@ -88,28 +87,38 @@ Never serious, learning anyways
 
 ## Featured Projects
 **Peer-to-Peer Communication System – Mix Network Prototype**
+
 Java-based Onion Routing system. Using Java's Authentication system and Hybrid RSA + AES
 Cryptography a secure multi-tiered P2P network is created for anonymous message sharing.
 **Student Trade – Distributed Information System**
+
 Full-stack platform built with React (Vite) and PostgreSQL. Enhanced with AWS S3, JWT
 authentication, WebSockets (real-time messaging), and managed database infrastructure via Aiven.
 **Nutritionist Professional Web Platform**
+
 Service-based web application built to showcase services and establish digital presence. Developed
 using React and JavaScript with AWS Services, deployed on Cloudflare.
 **Prime Tech Repairs – Service Engineering Web Application**
+
 Full-stack cloud-based application built with Python (Django) and Node.js + React. Integrated AWSs
 DynamoDB, Lambda, and Step Functions for scalable data management and event-driven workflows.
 **Bachelor’s Thesis – Regression Models in EEG Signal Analysis (In Progress)**
+
 Research project using MATLAB focused on bivariate and multivariate regression modeling in EEG
 signal processing.
 **Home Find – Real Estate Web Application (In Progress finishing Course for .NET + Angular)**
+
 Full-stack application using Angular 20v, .NET 10.0v (C#), and Microsoft SQL Server. Integrated
 Azure services for data migration and deployed via Firebase
 
 ## Currently Exploring
-Actively building portfolio websites
-Managing and deploying real client projects
-Expanding into full-stack enterprise-level architecture
+
+- Actively building portfolio websites
+
+- Managing and deploying real client projects
+
+- Expanding into full-stack enterprise-level architecture
+
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cupetre&theme=radical&hide_border=false)]
