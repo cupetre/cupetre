@@ -86,26 +86,37 @@ Never serious, learning anyways
 - Applied statistical reasoning for real-world datasets
 
 ## Featured Projects
+
 **Peer-to-Peer Communication System – Mix Network Prototype**
 
 Java-based Onion Routing system. Using Java's Authentication system and Hybrid RSA + AES
 Cryptography a secure multi-tiered P2P network is created for anonymous message sharing.
+
+
 **Student Trade – Distributed Information System**
 
 Full-stack platform built with React (Vite) and PostgreSQL. Enhanced with AWS S3, JWT
 authentication, WebSockets (real-time messaging), and managed database infrastructure via Aiven.
+
+
 **Nutritionist Professional Web Platform**
 
 Service-based web application built to showcase services and establish digital presence. Developed
 using React and JavaScript with AWS Services, deployed on Cloudflare.
+
+
 **Prime Tech Repairs – Service Engineering Web Application**
 
 Full-stack cloud-based application built with Python (Django) and Node.js + React. Integrated AWSs
 DynamoDB, Lambda, and Step Functions for scalable data management and event-driven workflows.
+
+
 **Bachelor’s Thesis – Regression Models in EEG Signal Analysis (In Progress)**
 
 Research project using MATLAB focused on bivariate and multivariate regression modeling in EEG
 signal processing.
+
+
 **Home Find – Real Estate Web Application (In Progress finishing Course for .NET + Angular)**
 
 Full-stack application using Angular 20v, .NET 10.0v (C#), and Microsoft SQL Server. Integrated
