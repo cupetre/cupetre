@@ -56,11 +56,11 @@ Never serious, learning anyways
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
--Schema design & normalization
+- Schema design & normalization
 
--Query optimization fundamentals
+- Query optimization fundamentals
 
--Relational data modeling
+- Relational data modeling
 
 ---
 
@@ -71,27 +71,26 @@ Never serious, learning anyways
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Deployment](https://img.shields.io/badge/Production%20Deployments-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)
 
--Containerized distributed systems
+- Containerized distributed systems
 
--Docker networks & multi-container architecture
+- Docker networks & multi-container architecture
 
--Cloud deployments (AWS / Azure)
+- Cloud deployments (AWS / Azure)
 
--VPS hosting & real-world website deployments
+- VPS hosting & real-world website deployments
 
 ---
 
 ### 📊 Research & Data
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-8A2BE2?style=for-the-badge)
-![Univariate Analysis](https://img.shields.io/badge/Univariate%20Models-6A5ACD?style=for-the-badge)
 ![Multivariate Analysis](https://img.shields.io/badge/Multivariate%20Models-483D8B?style=for-the-badge)
 ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-4B0082?style=for-the-badge)
 
--Predictive modeling & interpretation
+- Predictive modeling & interpretation
 
--Model comparison & evaluation techniques
+- Model comparison & evaluation techniques
 
--Applied statistical reasoning for real-world datasets
+- Applied statistical reasoning for real-world datasets
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupetre&layout=compact&theme=radical)  
 
@@ -118,7 +117,6 @@ Azure services for data migration and deployed via Firebase
 ## Currently Exploring
 Actively building portfolio websites
 Managing and deploying real client projects
-Designing scalable backend systems
 Expanding into full-stack enterprise-level architecture
 
 ---
