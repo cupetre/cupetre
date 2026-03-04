@@ -14,10 +14,6 @@ Never serious, learning anyways
 
 ---
 
-## 🛠 Tech Stack
-
----
-
 ### Frontend , Backend & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -90,8 +86,6 @@ Never serious, learning anyways
 
 - Applied statistical reasoning for real-world datasets
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupetre&layout=compact&theme=radical)  
-
 ## Featured Projects
 **Peer-to-Peer Communication System – Mix Network Prototype**
 Java-based Onion Routing system. Using Java's Authentication system and Hybrid RSA + AES
@@ -116,7 +110,6 @@ Azure services for data migration and deployed via Firebase
 Actively building portfolio websites
 Managing and deploying real client projects
 Expanding into full-stack enterprise-level architecture
-
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cupetre&theme=radical&hide_border=false)]
