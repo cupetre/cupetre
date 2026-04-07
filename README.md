@@ -117,10 +117,15 @@ Research project using MATLAB focused on bivariate and multivariate regression m
 signal processing.
 
 
-**Home Find – Real Estate Web Application (In Progress finishing Course for .NET + Angular)**
+**Home Find – Real Estate Web Application (Course for .NET + Angular)**
 
 Full-stack application using Angular 20v, .NET 10.0v (C#), and Microsoft SQL Server. Integrated
 Azure services for data migration and deployed via Firebase
+
+**Private MCS Software Development (In Progress)
+
+MCS Software is a desktop application designed to streamline and automate document workflows for a travel agency.  
+The system focuses on managing clients, bookings, payments, and generating structured documents such as vouchers, agreements, and invoices.
 
 ## Currently Exploring
 
