@@ -1,4 +1,4 @@
-# Hi 👋. Thanks for stopping by. I'm Hristijan Chupetreski.
+# Hi. Thanks for stopping by. I'm Hristijan Chupetreski.
 
 Finishing my Bachelor's in Computer Science (English Program) at FAMNIT, University of Primorska (Koper, Slovenia)
 
@@ -121,6 +121,12 @@ signal processing.
 
 Full-stack application using Angular 20v, .NET 10.0v (C#), and Microsoft SQL Server. Integrated
 Azure services for data migration and deployed via Firebase
+
+
+**GalaxyClub — Billiard Club Reservation Website** 
+
+GalaxyClub is a full-stack reservation platform built for a billiard club / coffee house environment, designed to provide a modern user experience for customers and a clean technical foundation for future business use.
+
 
 **Private MCS Software Development (In Progress)**
 
