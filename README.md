@@ -111,7 +111,7 @@ Full-stack cloud-based application built with Python (Django) and Node.js + Reac
 DynamoDB, Lambda, and Step Functions for scalable data management and event-driven workflows.
 
 
-**Bachelor’s Thesis – Regression Models in EEG Signal Analysis (In Progress)**
+**Bachelor’s Thesis – Regression Models in EEG Signal Analysis**
 
 Research project using MATLAB focused on bivariate and multivariate regression modeling in EEG
 signal processing.
@@ -128,7 +128,7 @@ Azure services for data migration and deployed via Firebase
 GalaxyClub is a full-stack reservation platform built for a billiard club / coffee house environment, designed to provide a modern user experience for customers and a clean technical foundation for future business use.
 
 
-**Private MCS Software Development (In Progress)**
+**Private MCS Software Development**
 
 MCS Software is a desktop application designed to streamline and automate document workflows for a travel agency.  
 The system focuses on managing clients, bookings, payments, and generating structured documents such as vouchers, agreements, and invoices.
