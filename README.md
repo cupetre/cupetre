@@ -1,8 +1,6 @@
 # Hi, I'm Hristijan Chupetreski 👋
 
-### Software Engineer · Full-Stack Development · Cloud & DevOps
-
-I'm finishing my **Bachelor's degree in Computer Science** at **FAMNIT, University of Primorska**, Slovenia.
+### Software Engineer · Full-Stack Development · Cloud & DevOps · Bachelor's degree in Computer Science at FAMNIT, University of Primorska, Slovenia
 
 I build **full-stack applications, distributed systems, desktop software and applied AI prototypes**, with a strong focus on how complete systems are designed, connected, deployed and maintained.
 
