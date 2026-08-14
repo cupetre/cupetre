@@ -2,13 +2,15 @@
 
 ### Software Engineer · Full-Stack Development · Cloud & DevOps · Bachelor's degree in Computer Science at FAMNIT, University of Primorska, Slovenia
 
-I build **full-stack applications, distributed systems, desktop software and applied AI prototypes**, with a strong focus on how complete systems are designed, connected, deployed and maintained.
+I build **full-stack applications, distributed systems, desktop software and applied AI prototypes**, with a strong interest in how complete systems are designed, connected, deployed and maintained.
 
 My main stack revolves around **C# / .NET, Angular, React, Java, Node.js, PostgreSQL and Docker**, with additional experience in **Python, AWS, Azure, Linux infrastructure, computer vision and scientific computing**.
 
 Beyond coursework, I've worked on **business software, real client platforms, cloud-based systems, distributed networking, computer vision prototypes and EEG research**.
 
-Currently expanding further into **software architecture, machine vision, Edge AI and production-oriented backend systems**.
+I am also currently working as an **intern at TriSense**, where I am expanding both my **technical and business knowledge** through work around software, machine vision, AI-oriented systems and real-world product development.
+
+My current direction is increasingly focused on the intersection of **software engineering, business systems, DevOps, machine vision and applied AI**.
 
 ---
 
@@ -40,7 +42,7 @@ Component architecture · routing · responsive interfaces · API integration ·
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-**ASP.NET Core · REST APIs · Entity Framework Core · Express · FastAPI · WPF · MVVM · WebSockets · JWT · layered architectures**
+ASP.NET Core · REST APIs · Entity Framework Core · Express · FastAPI · WPF · MVVM · WebSockets · JWT · layered architectures
 
 ### Databases
 
@@ -60,6 +62,25 @@ Relational modeling · schema design · normalization · migrations · persisten
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
 Docker Compose · multi-container systems · container networking · Linux VPS · reverse proxies · DNS/CDN · environment configuration · CI/CD concepts · cloud deployment
+
+---
+
+# 💼 Current Experience
+
+## TriSense — Software / Technology Intern
+
+Currently working at **TriSense**, where I am expanding my understanding of both **software engineering and the business side of technology development**.
+
+My work and learning focus around areas such as:
+
+* machine vision
+* software architecture
+* AI-enabled systems
+* technical product development
+* real-world engineering constraints
+* communication between business needs and technical implementation
+
+This experience is helping me improve not only as a developer, but also in understanding how technology is transformed into a usable product and business solution.
 
 ---
 
@@ -105,7 +126,7 @@ Reservation logic includes:
 * automatic table allocation
 * backend-driven reservation processing
 
-The public repository contains the frontend showcase while the full backend and production configuration remain private.
+The project was designed around real business requirements and a production-oriented deployment architecture.
 
 ---
 
@@ -136,32 +157,56 @@ The application uses a centralized PostgreSQL database so business data can be a
 
 ---
 
+## 🔄 Student Trade — Student Platform
+
+Full-stack platform originally developed for **student-to-student buying, selling and trading**.
+
+**React · Node.js · PostgreSQL · AWS S3 · WebSockets · JWT · Aiven**
+
+The current version combines:
+
+* user authentication
+* marketplace listings
+* relational application data
+* image and file storage
+* real-time messaging
+* WebSocket communication
+* cloud-hosted database infrastructure
+
+The project is currently being **redesigned and expanded** with the goal of turning it into a more complete, reusable and scalable platform for student communities.
+
+The longer-term idea is to evolve it beyond a simple marketplace into a broader **student platform template**, capable of supporting multiple student-focused services within one system.
+
+One planned extension is to integrate concepts from my **HomeFind real-estate project** and add a dedicated **student housing section**, allowing students to search for rooms, apartments and housing opportunities directly through the platform.
+
+---
+
 ## 🧅 Onion Routing / Mix Network
 
 Java-based distributed networking prototype demonstrating **multi-hop onion routing**.
 
 **Java · Maven · Docker · HTTP · Cryptography**
 
-The current implementation runs a Dockerized network of independent mix nodes:
+The system runs a Dockerized network of independent mix nodes:
 
 `Client → Node 1 → Node 2 → Node 3 → Destination`
 
-Each node decrypts only its own onion layer and learns only enough information to forward the packet to the next hop.
+Each node decrypts only its own onion layer and receives only enough information to forward the packet to the next hop.
 
-The system implements:
+The system explores:
 
 * layered onion packet construction
-* **AES-GCM** payload encryption
-* **RSA-OAEP** key wrapping
+* AES-GCM payload encryption
+* RSA-based key wrapping
 * HTTP transport between nodes
-* JSON/Base64 packet serialization
+* serialized encrypted packets
 * Dockerized mix nodes
-* exit-node HTTP requests
+* exit-node requests
 * encrypted response routing
-* forward and reply onion paths
-* unit and end-to-end testing
+* forward and return paths
+* distributed network architecture
 
-The project is intentionally an educational anonymity-network prototype rather than a production privacy system.
+The project is intended as an educational anonymity-network prototype and an exploration of networking, cryptography and distributed-system design.
 
 ---
 
@@ -171,25 +216,24 @@ Smart-glasses-inspired memory assistance prototype built during **Dragonhack 202
 
 **React · Node.js · Express · Python · FastAPI · FaceNet · DeepFace · PostgreSQL · Docker**
 
-Built as a multi-service architecture:
+Designed as a multi-service architecture:
 
 `Camera → React → Express API → ML Service → PostgreSQL`
 
-The frontend performs live face detection and sends detected face regions to a Python ML service.
+The project explores the idea of using computer vision to recognize people and provide contextual information about previous interactions.
 
 The system includes:
 
 * browser-based camera capture
-* TinyFaceDetector / face-api.js
-* face cropping and throttled image processing
+* live face detection
+* cropped face processing
 * FastAPI ML microservice
-* FaceNet embeddings
-* 128-dimensional face representations
+* FaceNet-based embeddings
 * PostgreSQL profile and interaction storage
 * Dockerized database infrastructure
-* AR-style contextual overlays
+* contextual UI overlays
 
-Built from idea to working end-to-end prototype during a **24-hour hackathon**.
+Built from concept to working prototype during a **24-hour hackathon**.
 
 ---
 
@@ -203,7 +247,7 @@ Research project focused on extracting and evaluating **functional brain connect
 
 The work uses EEG data from the **PhysioNet EEG Motor Movement/Imagery Dataset** and compares brain connectivity representations between experimental conditions.
 
-Pipeline includes:
+The research pipeline includes:
 
 * EEG preprocessing
 * filtering and resampling
@@ -216,90 +260,63 @@ Pipeline includes:
 * SVM classification
 * cross-validation
 
-The research investigates how multivariate modeling changes the representation of connectivity compared with simpler pairwise approaches.
+The work investigates how multivariate modeling changes the representation of brain connectivity compared with simpler pairwise approaches.
 
 ---
 
-## 🔄 Student Trade
+# 🧩 Additional Projects
 
-Distributed information system designed for **student-to-student buying, selling and trading**.
+## 🏠 HomeFind
 
-**React · Node.js · PostgreSQL · AWS S3 · WebSockets · JWT · Aiven**
+Full-stack real-estate application developed using:
 
-The project combines:
+**Angular · ASP.NET Core · Entity Framework Core · SQL Server · Docker · Nginx**
 
-* user authentication
-* marketplace listings
-* relational application data
-* image/file storage
-* real-time messaging
-* WebSocket communication
-* cloud-hosted database infrastructure
+The project helped me develop experience with REST APIs, CRUD architecture, validation, relational persistence, containerization and frontend/backend separation.
 
-The idea was designed around a practical problem: providing students with a dedicated platform for exchanging items without relying entirely on generic marketplaces and social-media groups.
-
----
-
-## 🏠 HomeFind — Angular + .NET Full-Stack Application
-
-Full-stack real-estate application developed around the **Angular + ASP.NET Core ecosystem**.
-
-**Angular · C# · ASP.NET Core · Entity Framework Core · SQL Server · Docker · Nginx**
-
-Built around a standard client-server architecture:
-
-`Angular → REST API → Database`
-
-with deployment architecture extending to:
-
-`Angular → Nginx → ASP.NET Core API → Database`
-
-The project covers:
-
-* RESTful API design
-* CRUD workflows
-* frontend/backend separation
-* Entity Framework data access
-* backend validation
-* centralized error handling
-* environment-based configuration
-* CORS
-* containerization
-* multi-service deployment architecture
+Parts of the housing concept are planned to be reused and redesigned as a **student housing feature inside Student Trade**.
 
 ---
 
 ## ☁️ Prime Tech Repairs
 
-Cloud-oriented service-management application.
+Service-oriented application developed with:
 
 **Django · React · Node.js · AWS**
 
-Worked with AWS services including:
-
-* DynamoDB
-* Lambda
-* Step Functions
-
-The project explored serverless and event-driven approaches for application workflows and cloud data management.
+Used AWS technologies including **DynamoDB, Lambda and Step Functions** to explore serverless workflows, cloud data storage and event-driven application design.
 
 ---
 
-# 🔬 Engineering Interests
+## 🎮 Unity & Game Development
 
-My current focus is moving beyond simply building applications toward understanding the **systems underneath them**:
+I have also worked on smaller game-development projects in **Unity**, including projects such as:
+
+* **Chicken Inferno**
+* **Shifting Tides 2**
+
+These projects gave me additional experience with interactive systems, game logic, object-oriented design and working within a real-time game engine.
+
+---
+
+# 🔬 Current Direction
+
+My focus is gradually moving from simply building applications toward understanding how **software, infrastructure, AI and business requirements work together**.
+
+Current areas of interest include:
 
 * Software Architecture
 * Backend Engineering
+* Full-Stack Systems
 * Distributed Systems
 * Cloud & DevOps
 * Machine Vision
 * Edge AI
 * Computer Vision
 * Applied Machine Learning
-* Production Deployment
+* Technical Product Development
 
-I enjoy projects where **software, infrastructure and real-world constraints meet**.
+I am particularly interested in projects where **software solves an actual operational or business problem**, rather than existing only as a technical demonstration.
 
 ---
 
