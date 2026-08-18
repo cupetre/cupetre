@@ -117,6 +117,3 @@ Software Architecture · Backend Engineering · DevOps · Distributed Systems ·
 ---
 
 ### `Build → Break → Understand → Improve`
-
-
-### `Build → Break → Understand → Improve`
